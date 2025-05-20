@@ -1,0 +1,2 @@
+SHA-256 gasnica.bmp: d46b0f87af4457608e21fcd9483457729b686f2cd227df01a95b8fca73cb1932
+SHA-256 gasnica-zmieniona.bmp: 8b97bd6eca4c09caa3b68ed4e326ecea828508a590adfe3b0a4ec47f821b6d63
